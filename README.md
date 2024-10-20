@@ -9,10 +9,13 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ### 2. 
 
-### 3. [Analysis of Birth Rates in Ukrainian Regions](https://github.com/data-tamer2410/ds_analysis_of_birth_rates_in_ukrainian_regions)
+### 3. [Analysis of Birth Rates in Ukrainian Regions](https://github.com/data-tamer2410/ds-analysis-of-birth-rates-in-ukrainian-regions)
 This project explores fertility rate trends in Ukraine from 1950 to 2019 across different regions. Using data extracted from Wikipedia, we analyze how the birth rates have changed over time and provide visual insights into the factors influencing these trends.
 
-### 4. [Console Bot Helper](https://github.com/data-tamer2410/ds_console_bot_helper/tree/master)
+### 4.[Manipulation with SQLite](https://github.com/data-tamer2410/ds-manipulation-with-sqlite/tree/master)
+In this project, I demonstrated my knowledge of the SQL programming language and my ability to work with SQLite in Python.
+
+### 5. [Console Bot Helper](https://github.com/data-tamer2410/ds_console-bot-helper/tree/master)
 This is a console bot assistant, it is not related to data science, with this project I want to show the ability to work with Docker.
 
 
