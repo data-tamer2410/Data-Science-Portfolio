@@ -15,7 +15,7 @@ This project explores fertility rate trends in Ukraine from 1950 to 2019 across 
 ### 4. [Manipulation with SQLite](https://github.com/data-tamer2410/ds-manipulation-with-sqlite/tree/master)
 In this project, I demonstrated my knowledge of the SQL programming language and my ability to work with SQLite in Python.
 
-### 5. [Console Bot Helper](https://github.com/data-tamer2410/ds_console-bot-helper/tree/master)
+### 5. [Console Bot Helper](https://github.com/data-tamer2410/ds-console-bot-helper/tree/master)
 This is a console bot assistant, it is not related to data science, with this project I want to show the ability to work with Docker.
 
 
