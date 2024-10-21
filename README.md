@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 Here you will find my data science projects.
 
 Welcome to my Data Science portfolio! Here you can find my projects related to data analysis, machine learning, and data visualization.
@@ -24,7 +24,9 @@ In this project, I demonstrated my knowledge of the SQL programming language and
 This repository showcases my MongoDB skills using pymongo, and scraping and parsing skills using beautifulsoup4 and requests.
 
 ### 5. [Console Bot Helper](https://github.com/data-tamer2410/ds-console-bot-helper/tree/master)
-**Technologies used**: Docker, DateTime.
+**Technologies used**:
+*  **Docker**;
+*  **DateTime**.
 
 This is a console bot assistant, it is not related to data science, with this project I want to show the ability to work with Docker.
 
