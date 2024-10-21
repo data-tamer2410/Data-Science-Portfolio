@@ -61,6 +61,3 @@ This repository showcases my MongoDB skills using pymongo, and scraping and pars
 *  **DateTime**.
 
 This is a console bot assistant, it is not related to data science, with this project I want to show the ability to work with Docker.
-
----
-
