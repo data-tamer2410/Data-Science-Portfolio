@@ -11,7 +11,7 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ### 3.
 
-### 4.[Developer Salary Analysis](https://github.com/data-tamer2410/ds-developer-salary-analysis/tree/main)
+### 4. [Developer Salary Analysis](https://github.com/data-tamer2410/ds-developer-salary-analysis/tree/main)
 This project involves analyzing developer salaries based on data from a June 2017 developer survey.
 
 ### 5. [Analysis of Birth Rates in Ukrainian Regions](https://github.com/data-tamer2410/ds-analysis-of-birth-rates-in-ukrainian-regions)
