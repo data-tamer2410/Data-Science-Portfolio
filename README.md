@@ -22,10 +22,10 @@ In this project, I demonstrated my knowledge of the SQL programming language and
 
 ### 7. [Manipulation with MongoDB](https://github.com/data-tamer2410/ds-manipulation-with-mongodb/tree/master)
 **Technologies used**:
-*   **MongoDB**;
-*   **BeautifulSoup**;
-*   **Requests**;
-*   **JSON**.
+*   MongoDB;
+*   BeautifulSoup;
+*   Requests;
+*   JSON.
 
 This repository showcases my MongoDB skills using pymongo, and scraping and parsing skills using beautifulsoup4 and requests.
 
