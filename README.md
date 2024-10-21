@@ -21,9 +21,15 @@ This project explores fertility rate trends in Ukraine from 1950 to 2019 across 
 In this project, I demonstrated my knowledge of the SQL programming language and my ability to work with SQLite in Python.
 
 ### 7. [Manipulation with MongoDB](https://github.com/data-tamer2410/ds-manipulation-with-mongodb/tree/master)
+**Technologies used**:
+*   **MongoDB**;
+*   **BeautifulSoup**;
+*   **Requests**;
+*   **JSON**.
+
 This repository showcases my MongoDB skills using pymongo, and scraping and parsing skills using beautifulsoup4 and requests.
 
-### 5. [Console Bot Helper](https://github.com/data-tamer2410/ds-console-bot-helper/tree/master)
+### 8. [Console Bot Helper](https://github.com/data-tamer2410/ds-console-bot-helper/tree/master)
 **Technologies used**:
 *  **Docker**;
 *  **DateTime**.
