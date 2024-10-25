@@ -13,7 +13,7 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ### 4. [House Price Predictor](https://github.com/data-tamer2410/ds-house-price-predictor/tree/main)
 **Technologies used**:
-* **SciKit-Learn**
+* **SciKit-Learn**;
 *  **Pandas**;
 *  **Numpy**;
 *  **Matplotlib**;
