@@ -9,11 +9,21 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ### 2. 
 
-### 3.
+---
+
+### 4. [House Price Predictor](https://github.com/data-tamer2410/ds-house-price-predictor/tree/main)
+**Technologies used**:
+* **SciKit-Learn**
+*  **Pandas**;
+*  **Numpy**;
+*  **Matplotlib**;
+*  **Seaborn**.
+
+This project evaluated different machine learning models for predicting real estate prices.
 
 ---
 
-### 4. [Developer Salary Analysis](https://github.com/data-tamer2410/ds-developer-salary-analysis/tree/main)
+### 5. [Developer Salary Analysis](https://github.com/data-tamer2410/ds-developer-salary-analysis/tree/main)
 **Technologies used**:
 *  **Pandas**;
 *  **Numpy**;
@@ -24,7 +34,7 @@ This project involves analyzing developer salaries based on data from a June 201
 
 ---
 
-### 5. [Analysis of Birth Rates in Ukrainian Regions](https://github.com/data-tamer2410/ds-analysis-of-birth-rates-in-ukrainian-regions)
+### 6. [Analysis of Birth Rates in Ukrainian Regions](https://github.com/data-tamer2410/ds-analysis-of-birth-rates-in-ukrainian-regions)
 **Technologies used**:
 *  **Pandas**;
 *  **Numpy**;
@@ -35,7 +45,7 @@ This project explores fertility rate trends in Ukraine from 1950 to 2019 across 
 
 ---
 
-### 6. [Manipulation with SQLite](https://github.com/data-tamer2410/ds-manipulation-with-sqlite/tree/master)
+### 7. [Manipulation with SQLite](https://github.com/data-tamer2410/ds-manipulation-with-sqlite/tree/master)
 **Technologies used**:
 *  **SQLite**;
 *  **SQL**.
@@ -44,7 +54,7 @@ In this project, I demonstrated my knowledge of the SQL programming language and
 
 ---
 
-### 7. [Manipulation with MongoDB](https://github.com/data-tamer2410/ds-manipulation-with-mongodb/tree/master)
+### 8. [Manipulation with MongoDB](https://github.com/data-tamer2410/ds-manipulation-with-mongodb/tree/master)
 **Technologies used**:
 *  **MongoDB**;
 *  **BeautifulSoup**;
@@ -55,7 +65,7 @@ This repository showcases my MongoDB skills using pymongo, and scraping and pars
 
 ---
 
-### 8. [Console Bot Helper](https://github.com/data-tamer2410/ds-console-bot-helper/tree/master)
+### 9. [Console Bot Helper](https://github.com/data-tamer2410/ds-console-bot-helper/tree/master)
 **Technologies used**:
 *  **Docker**;
 *  **DateTime**.
