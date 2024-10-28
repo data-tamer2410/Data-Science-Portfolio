@@ -33,7 +33,9 @@ In this project, I developed a human activity recognition system that accurately
 *  **Matplotlib**;
 *  **Seaborn**.
 
-This project evaluated different machine learning models for predicting real estate prices.
+In this project, I developed a comprehensive suite of regression models to predict outcomes using diverse machine learning algorithms, including Linear Regression, Lasso Regression, Random Forest, and Gradient Boosting. I employed techniques such as cross-validation and hyperparameter tuning using Optuna to optimize model performance. 
+The project involved detailed data preprocessing, feature selection, and rigorous evaluation metrics, including RMSE, MAE, and R² scores, ensuring robust model validation. Visualizations were created to illustrate model predictions versus actual outcomes, highlighting the efficacy of each algorithm. 
+This project showcases my skills in data analysis, feature engineering, and machine learning, demonstrating my ability to drive insights and make data-driven decisions.
 
 ---
 
@@ -44,7 +46,8 @@ This project evaluated different machine learning models for predicting real est
 *  **Matplotlib**;
 *  **Seaborn**.
 
-This project involves analyzing developer salaries based on data from a June 2017 developer survey.
+In this project, I conducted a comprehensive analysis of developer salaries using a dataset from a 2017 developer survey. I performed data cleaning and preprocessing, focusing on key features such as job roles, programming languages, experience, and salary changes. Utilizing Python libraries like Pandas, Seaborn, and Matplotlib, I visualized relationships between salaries and factors like English proficiency, age, and company size.
+The analysis revealed significant insights, including the correlation between work experience, language skills, and salary levels. I generated descriptive statistics and visualizations that illustrated how salaries vary by job title and company size. Additionally, I highlighted the trends in the developer workforce's age distribution and the impact of education on salary. This project demonstrates my ability to derive actionable insights from data and communicate findings effectively.
 
 ---
 
@@ -55,7 +58,16 @@ This project involves analyzing developer salaries based on data from a June 201
 *  **Matplotlib**;
 *  **Seaborn**.
 
-This project explores fertility rate trends in Ukraine from 1950 to 2019 across different regions. Using data extracted from Wikipedia, we analyze how the birth rates have changed over time and provide visual insights into the factors influencing these trends.
+In this project, I conducted a comprehensive analysis of fertility rates across various regions in Ukraine over a span of nearly seven decades. Utilizing data scraped from Wikipedia, I meticulously cleaned and transformed the dataset, which includes regional birth rates from 1950 to 2019, into a structured format for analysis.
+
+Key insights from the analysis reveal significant trends, such as:
+
+- The lowest fertility rates were observed in 2000, highlighting a demographic crisis at the turn of the millennium.
+- A noticeable recovery in birth rates began in 2000, suggesting a gradual demographic rebound.
+- The dramatic decline in the Luhansk region's birth rate in 2014 correlates with the onset of military conflict, providing context to the data.
+- By 2019, regions like Kyiv and Zakarpattia exhibited above-average fertility rates, while Sumy had the lowest.
+
+The project utilized Python libraries such as Pandas, NumPy, and Seaborn for data manipulation and visualization, presenting findings through informative graphs that illustrate the shifting dynamics of fertility rates over time. This analysis not only enhances understanding of demographic trends but also emphasizes the impact of socio-political events on population metrics.
 
 ---
 
