@@ -9,7 +9,18 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ### 2.
 
-### 3.
+---
+
+### 3. [Accelerometer Activity Classification](https://github.com/data-tamer2410/ds-accelerometer-activity-classification)
+**Technologies used**:
+* **SciKit-Learn**;
+* **Optuna**;
+*  **Pandas**;
+*  **Numpy**;
+*  **Matplotlib**;
+*  **Seaborn**.
+
+In this project, I developed a human activity recognition system that accurately classifies activities such as idle, running, walking, and climbing stairs using accelerometer data. Leveraging machine learning algorithms, including k-NN and Random Forest, I implemented a pipeline for data preprocessing, feature extraction, and model evaluation. The project demonstrates my ability to apply advanced analytics to real-world problems and highlights my skills in data science, machine learning, and software development. The high accuracy achieved not only showcases the effectiveness of the models used but also emphasizes the potential for real-time applications in health monitoring and smart device integration.
 
 ---
 
