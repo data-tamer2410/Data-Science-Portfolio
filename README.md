@@ -7,14 +7,13 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 **Technologies used**:
 * **TensorFlow**;
 * **SciKit-Learn**;
-*  **Pandas**;
 *  **Numpy**;
 *  **Matplotlib**.
 
 In this project, I developed a neural network model to accurately recognize handwritten digits from the MNIST dataset. The architecture features two hidden layers with sigmoid activation functions and a softmax output layer for multi-class classification. 
 
 Key achievements include:
-- **High Accuracy**: Achieved 92.11% accuracy on training data and approximately 89.87% in cross-validation.
+- **High Accuracy**: Achieved 92.40% accuracy on training data and approximately 89.87% in cross-validation.
 - **Data Processing**: Implemented effective data normalization and transformation techniques to optimize model performance.
 - **Evaluation Metrics**: Used precision, F1-score, and ROC-AUC to assess model effectiveness, demonstrating its ability to reliably distinguish between digits.
 
