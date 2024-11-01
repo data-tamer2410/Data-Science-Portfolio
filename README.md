@@ -5,9 +5,9 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ## Projects
 
-### 1. 
+### * 
 
-### 2.
+### *
 
 ---
 
