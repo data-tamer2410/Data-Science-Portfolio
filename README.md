@@ -5,9 +5,24 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ## Projects
 
-###  
+### [Handwritten Digit Recognition](https://github.com/data-tamer2410/ds-handwritten-digit-recognition/tree/main)
+**Technologies used**:
+* **TensorFlow**;
+* **SciKit-Learn**;
+*  **Pandas**;
+*  **Numpy**;
+*  **Matplotlib**.
 
-### 
+In this project, I developed a neural network model to accurately recognize handwritten digits from the MNIST dataset. The architecture features two hidden layers with sigmoid activation functions and a softmax output layer for multi-class classification. 
+
+Key achievements include:
+- **High Accuracy**: Achieved 92.11% accuracy on training data and approximately 89.87% in cross-validation.
+- **Data Processing**: Implemented effective data normalization and transformation techniques to optimize model performance.
+- **Evaluation Metrics**: Used precision, F1-score, and ROC-AUC to assess model effectiveness, demonstrating its ability to reliably distinguish between digits.
+
+This project showcases my proficiency in deep learning, data preprocessing, and model evaluation, highlighting my ability to tackle real-world problems in computer vision.
+
+---
 
 ### [Accelerometer Activity Classification](https://github.com/data-tamer2410/ds-accelerometer-activity-classification)
 **Technologies used**:
