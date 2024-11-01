@@ -9,8 +9,6 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ### 
 
----
-
 ### [Accelerometer Activity Classification](https://github.com/data-tamer2410/ds-accelerometer-activity-classification)
 **Technologies used**:
 * **SciKit-Learn**;
