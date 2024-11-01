@@ -49,6 +49,17 @@ This project showcases my skills in data analysis, feature engineering, and mach
 
 ---
 
+### [Cluster Insight](https://github.com/data-tamer2410/ds-cluster-insight/tree/main)
+**Technologies used**:
+* **SciKit-Learn**;
+*  **Pandas**;
+*  **Matplotlib**;
+*  **Seaborn**.
+
+Developed a robust KMeans clustering model to segment data into optimal groups, achieving high accuracy by leveraging the elbow method for cluster selection. The project includes clear visualizations comparing predicted clusters with actual targets, highlighting model strengths and limitations in complex data intersections. This practical clustering solution demonstrates proficiency in data preprocessing, model evaluation, and insightful visual analysis, showcasing essential skills for data-driven decision-making.
+  
+---
+
 ### [Developer Salary Analysis](https://github.com/data-tamer2410/ds-developer-salary-analysis/tree/main)
 **Technologies used**:
 *  **Pandas**;
