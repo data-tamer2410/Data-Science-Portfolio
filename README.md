@@ -1,6 +1,4 @@
 # Data Science Portfolio
-Here you will find my data science projects.
-
 Welcome to my Data Science portfolio! Here you can find my projects related to data analysis, machine learning, and data visualization.
 
 ## Projects
