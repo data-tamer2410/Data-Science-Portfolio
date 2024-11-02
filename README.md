@@ -34,6 +34,18 @@ In this project, I developed a human activity recognition system that accurately
 
 ---
 
+### [MovieLens Recommender System](https://github.com/data-tamer2410/ds-movielens-recommender-system/tree/main)
+**Technologies used**:
+* **Surprise**;
+* **Optuna**;
+*  **Pandas**;
+*  **Numpy**;
+*  **Matplotlib**.
+
+Developed a recommendation system leveraging collaborative filtering with the Surprise library, delivering accurate, data-driven user preferences for personalized content. This project demonstrates my proficiency in machine learning and recommendation algorithms, including data processing, model training, and performance optimization, tailored to enhance user experience through intelligent recommendations.
+
+---
+
 ### [House Price Predictor](https://github.com/data-tamer2410/ds-house-price-predictor/tree/main)
 **Technologies used**:
 * **SciKit-Learn**;
