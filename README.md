@@ -3,6 +3,30 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ## Projects
 
+### [Fashion MNIST Classifier](https://github.com/data-tamer2410/ds-fashion-mnist-classifier)
+**Technologies used**:
+*  **Keras**;
+*  **TensorFlow**;
+*  **SciKit-Learn**;
+*  **Numpy**;
+*  **Pandas**;
+*  **Matplotlib**';
+*  **Optuna**.
+
+This project presents a robust image classification model for the Fashion MNIST dataset, where I applied a combination of neural network design and hyperparameter optimization to achieve high accuracy. The model classifies various clothing types based on grayscale images, simulating real-world applications in retail, e-commerce, and fashion industries.
+
+To maximize performance, I integrated Optuna for hyperparameter tuning, optimizing parameters such as the number of layers, activation functions, batch size, and optimizer types. The model achieved **93.24% accuracy on training data** and **88.3% accuracy on test data**, surpassing the project’s original accuracy goal. 
+
+Key highlights:
+- **High Accuracy and Stability:** Model validation accuracy of 89.44% with low loss, ensuring reliable performance in test scenarios.
+- **Data-Driven Hyperparameter Optimization:** Applied Optuna to refine model parameters across 50 trials, ensuring the most effective combination of settings.
+- **Real-World Relevance:** The techniques and outcomes of this project are directly applicable to any business or application requiring fast, accurate image-based classification.
+
+**Why It Matters:**  
+This project not only demonstrates expertise in deep learning model building but also in systematic optimization—a crucial skill in data science roles that require balancing model performance with computational efficiency. This ability to deliver optimized, high-performance models showcases my readiness for real-world machine learning challenges in industry applications.
+
+---
+
 ### [Handwritten Digit Recognition](https://github.com/data-tamer2410/ds-handwritten-digit-recognition/tree/main)
 **Technologies used**:
 * **TensorFlow**;
@@ -23,8 +47,8 @@ This project showcases my proficiency in deep learning, data preprocessing, and 
 
 ### [Accelerometer Activity Classification](https://github.com/data-tamer2410/ds-accelerometer-activity-classification)
 **Technologies used**:
-* **SciKit-Learn**;
-* **Optuna**;
+*  **SciKit-Learn**;
+*  **Optuna**;
 *  **Pandas**;
 *  **Numpy**;
 *  **Matplotlib**;
@@ -36,8 +60,8 @@ In this project, I developed a human activity recognition system that accurately
 
 ### [MovieLens Recommender System](https://github.com/data-tamer2410/ds-movielens-recommender-system/tree/main)
 **Technologies used**:
-* **Surprise**;
-* **Optuna**;
+*  **Surprise**;
+*  **Optuna**;
 *  **Pandas**;
 *  **Numpy**;
 *  **Matplotlib**.
@@ -48,8 +72,8 @@ Developed a recommendation system leveraging collaborative filtering with the Su
 
 ### [House Price Predictor](https://github.com/data-tamer2410/ds-house-price-predictor/tree/main)
 **Technologies used**:
-* **SciKit-Learn**;
-* **Optuna**;
+*  **SciKit-Learn**;
+*  **Optuna**;
 *  **Pandas**;
 *  **Numpy**;
 *  **Matplotlib**;
@@ -63,7 +87,7 @@ This project showcases my skills in data analysis, feature engineering, and mach
 
 ### [Cluster Insight](https://github.com/data-tamer2410/ds-cluster-insight/tree/main)
 **Technologies used**:
-* **SciKit-Learn**;
+*  **SciKit-Learn**;
 *  **Pandas**;
 *  **Matplotlib**;
 *  **Seaborn**.
