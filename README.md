@@ -9,7 +9,6 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 * **TensorFlow**;
 * **SciKit-Learn**;
 * **Numpy**;
-* **Pandas**;
 * **Matplotlib**.
 
 This project explores advanced techniques for image classification using the Fashion MNIST dataset, where I implemented multiple neural network architectures to enhance accuracy. The task involved classifying images of various clothing items based on grayscale data, using methods such as convolutional neural networks (CNN), VGG16 for feature extraction, and fine-tuning pre-trained models for better performance. 
