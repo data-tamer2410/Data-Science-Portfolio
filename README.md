@@ -20,6 +20,8 @@ Key highlights:
 **Why It Matters**:  
 This project demonstrates my expertise in image classification, computer vision, and deep learning techniques, showcasing my ability to apply neural networks to practical real-world problems. It highlights my skills in handling image data, training complex models, and optimizing them for performance.
 
+---
+
 ### [Fashion MNIST Classifier 2.0](https://github.com/data-tamer2410/ds-fashion-mnist-classifier-2.0)
 **Technologies used**:
 *  **Keras**;
