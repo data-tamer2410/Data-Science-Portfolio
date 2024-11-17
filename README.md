@@ -3,13 +3,29 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ## Projects
 
+### [Eyes Classification](https://github.com/data-tamer2410/ds-eyes-classification)
+**Technologies used**:
+*  **Keras**;
+*  **SciKit-Learn**;
+*  **Numpy**;
+*  **Matplotlib**.
+
+In this project, I developed a deep learning model for classifying images of eyes into different categories (open or closed). The dataset consists of various images of human eyes captured in real-life conditions. The model was built using convolutional neural networks (CNNs) and trained to recognize subtle features of the eye, providing a robust classification solution that can be used in applications such as facial recognition or eye-tracking systems.
+
+Key highlights:
+- **Deep Learning Architecture**: Implemented CNNs for efficient feature extraction and classification of images.
+- **Data Preprocessing**: Applied data augmentation techniques to enhance the model's generalization ability.
+- **Real-World Use Cases**: The model can be used for real-time applications such as eye health monitoring, security, and accessibility technologies.
+
+**Why It Matters**:  
+This project demonstrates my expertise in image classification, computer vision, and deep learning techniques, showcasing my ability to apply neural networks to practical real-world problems. It highlights my skills in handling image data, training complex models, and optimizing them for performance.
+
 ### [Fashion MNIST Classifier 2.0](https://github.com/data-tamer2410/ds-fashion-mnist-classifier-2.0)
 **Technologies used**:
-* **Keras**;
-* **TensorFlow**;
-* **SciKit-Learn**;
-* **Numpy**;
-* **Matplotlib**.
+*  **Keras**;
+*  **SciKit-Learn**;
+*  **Numpy**;
+*  **Matplotlib**.
 
 This project explores advanced techniques for image classification using the Fashion MNIST dataset, where I implemented multiple neural network architectures to enhance accuracy. The task involved classifying images of various clothing items based on grayscale data, using methods such as convolutional neural networks (CNN), VGG16 for feature extraction, and fine-tuning pre-trained models for better performance. 
 
@@ -25,11 +41,10 @@ This project demonstrates my ability to work with cutting-edge deep learning tec
 
 ### [Fashion MNIST Classifier](https://github.com/data-tamer2410/ds-fashion-mnist-classifier)
 **Technologies used**:
-*  **Keras**;
 *  **TensorFlow**;
+*  **Keras**;
 *  **SciKit-Learn**;
 *  **Numpy**;
-*  **Pandas**;
 *  **Matplotlib**';
 *  **Optuna**.
 
@@ -47,10 +62,11 @@ This project not only demonstrates expertise in deep learning model building but
 
 ---
 
-### [Handwritten Digit Recognition](https://github.com/data-tamer2410/ds-handwritten-digit-recognition/tree/main)
+### [Handwritten Digit Recognition](https://github.com/data-tamer2410/ds-handwritten-digit-recognition)
 **Technologies used**:
-* **TensorFlow**;
-* **SciKit-Learn**;
+*  **TensorFlow**;
+*  **Keras**;
+*  **SciKit-Learn**;
 *  **Numpy**;
 *  **Matplotlib**.
 
@@ -78,19 +94,20 @@ In this project, I developed a human activity recognition system that accurately
 
 ---
 
-### [MovieLens Recommender System](https://github.com/data-tamer2410/ds-movielens-recommender-system/tree/main)
+### [MovieLens Recommender System](https://github.com/data-tamer2410/ds-movielens-recommender-system)
 **Technologies used**:
 *  **Surprise**;
 *  **Optuna**;
 *  **Pandas**;
 *  **Numpy**;
+*  **Scipy**;
 *  **Matplotlib**.
 
 Developed a recommendation system leveraging collaborative filtering with the Surprise library, delivering accurate, data-driven user preferences for personalized content. This project demonstrates my proficiency in machine learning and recommendation algorithms, including data processing, model training, and performance optimization, tailored to enhance user experience through intelligent recommendations.
 
 ---
 
-### [House Price Predictor](https://github.com/data-tamer2410/ds-house-price-predictor/tree/main)
+### [House Price Predictor](https://github.com/data-tamer2410/ds-house-price-predictor)
 **Technologies used**:
 *  **SciKit-Learn**;
 *  **Optuna**;
@@ -105,9 +122,10 @@ This project showcases my skills in data analysis, feature engineering, and mach
 
 ---
 
-### [Cluster Insight](https://github.com/data-tamer2410/ds-cluster-insight/tree/main)
+### [Cluster Insight](https://github.com/data-tamer2410/ds-cluster-insight)
 **Technologies used**:
 *  **SciKit-Learn**;
+*  **Numpy**.
 *  **Pandas**;
 *  **Matplotlib**;
 *  **Seaborn**.
@@ -116,7 +134,7 @@ Developed a robust KMeans clustering model to segment data into optimal groups, 
   
 ---
 
-### [Developer Salary Analysis](https://github.com/data-tamer2410/ds-developer-salary-analysis/tree/main)
+### [Developer Salary Analysis](https://github.com/data-tamer2410/ds-developer-salary-analysis)
 **Technologies used**:
 *  **Pandas**;
 *  **Numpy**;
@@ -148,7 +166,7 @@ The project utilized Python libraries such as Pandas, NumPy, and Seaborn for dat
 
 ---
 
-### [Manipulation with SQLite](https://github.com/data-tamer2410/ds-manipulation-with-sqlite/tree/master)
+### [Manipulation with SQLite](https://github.com/data-tamer2410/ds-manipulation-with-sqlite)
 **Technologies used**:
 *  **SQLite**;
 *  **SQL**.
@@ -157,9 +175,10 @@ In this project, I demonstrated my knowledge of the SQL programming language and
 
 ---
 
-### [Manipulation with MongoDB](https://github.com/data-tamer2410/ds-manipulation-with-mongodb/tree/master)
+### [Manipulation with MongoDB](https://github.com/data-tamer2410/ds-manipulation-with-mongodb)
 **Technologies used**:
 *  **MongoDB**;
+*  **PyMongo**;
 *  **BeautifulSoup**;
 *  **Requests**;
 *  **JSON**.
@@ -168,7 +187,7 @@ This repository showcases my MongoDB skills using pymongo, and scraping and pars
 
 ---
 
-### [Console Bot Helper](https://github.com/data-tamer2410/ds-console-bot-helper/tree/master)
+### [Console Bot Helper](https://github.com/data-tamer2410/ds-console-bot-helper)
 **Technologies used**:
 *  **Docker**;
 *  **DateTime**.
