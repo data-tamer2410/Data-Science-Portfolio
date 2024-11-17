@@ -45,7 +45,7 @@ This project demonstrates my ability to work with cutting-edge deep learning tec
 *  **Keras**;
 *  **SciKit-Learn**;
 *  **Numpy**;
-*  **Matplotlib**';
+*  **Matplotlib**;
 *  **Optuna**.
 
 This project presents a robust image classification model for the Fashion MNIST dataset, where I applied a combination of neural network design and hyperparameter optimization to achieve high accuracy. The model classifies various clothing types based on grayscale images, simulating real-world applications in retail, e-commerce, and fashion industries.
