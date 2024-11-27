@@ -3,6 +3,25 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ## Projects
 
+### [Sentiment Analysis with RNN](https://github.com/data-tamer2410/ds-sentiment-analysis-with-rnn)
+**Technologies used**:
+*  **Keras**;
+*  **SciKit-Learn**;
+*  **Numpy**;
+*  **Matplotlib**.
+
+In this project, I developed a set of deep learning models to classify movie reviews from the IMDB dataset as positive or negative. Leveraging the sequential nature of text data, I implemented and compared multiple recurrent neural network architectures, including Simple RNN, LSTM, Bidirectional LSTM (BRNN), and Deep Bidirectional LSTM (DBRNN). The dataset contains 50,000 reviews, split evenly into training and testing subsets. Each model was trained to capture contextual information and sentiment patterns from the text, and their performance was evaluated using accuracy and loss metrics. The best results were achieved by the Bidirectional LSTM model, demonstrating its ability to handle complex text data effectively.
+
+Key Highlights:
+- **Advanced Architectures**: Explored and implemented multiple RNN-based architectures to improve text classification performance.  
+- **Data Preprocessing**: Managed data padding and tokenization to prepare text data for recurrent models.  
+- **Model Evaluation**: Visualized training and validation results, analyzing differences in model performance across architectures.  
+
+**Why It Matters**:  
+This project showcases my expertise in natural language processing, text data preparation, and applying recurrent neural networks to real-world tasks, highlighting my ability to build, optimize, and evaluate deep learning models for practical applications.  
+
+---
+
 ### [Eyes Classification](https://github.com/data-tamer2410/ds-eyes-classification)
 **Technologies used**:
 *  **Keras**;
