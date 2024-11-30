@@ -167,6 +167,17 @@ The analysis revealed significant insights, including the correlation between wo
 
 ---
 
+### [Text Summarization](https://github.com/data-tamer2410/ds-text-summarization)
+**Technologies used**:
+*  **NLTK**;
+*  **LangDetect**;
+*  **Heapq**;
+*  **String**.
+
+This project demonstrates the ability to automatically generate concise summaries of long texts using Natural Language Processing (NLP) with NLTK. The process involves text preprocessing (tokenization, stopword removal, and punctuation handling), followed by frequency analysis of key words. The project calculates sentence scores based on the importance of contained words and generates a summary by selecting the highest-scoring sentences. This method can be useful for tasks such as document summarization, information retrieval, and content extraction, and showcases proficiency in NLP techniques.
+
+---
+
 ### [Analysis of Birth Rates in Ukrainian Regions](https://github.com/data-tamer2410/ds-analysis-of-birth-rates-in-ukrainian-regions)
 **Technologies used**:
 *  **Pandas**;
