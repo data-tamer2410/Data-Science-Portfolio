@@ -46,17 +46,22 @@ This project demonstrates my expertise in image classification, computer vision,
 *  **Keras**;
 *  **SciKit-Learn**;
 *  **Numpy**;
-*  **Matplotlib**.
+*  **Matplotlib**;
+*  **Pandas**;
+*  **Streamlit**.
 
-This project explores advanced techniques for image classification using the Fashion MNIST dataset, where I implemented multiple neural network architectures to enhance accuracy. The task involved classifying images of various clothing items based on grayscale data, using methods such as convolutional neural networks (CNN), VGG16 for feature extraction, and fine-tuning pre-trained models for better performance. 
+This project explores advanced techniques for image classification using the Fashion MNIST dataset, where I implemented multiple neural network architectures to enhance accuracy. The task involved classifying images of various clothing items based on grayscale data, using methods such as convolutional neural networks (CNN), VGG16 for feature extraction, and fine-tuning pre-trained models for better performance.
 
 Key highlights:
-- **Multiple Model Approaches:** Developed custom CNN, utilized VGG16 for feature extraction, and fine-tuned VGG16 layers to maximize classification accuracy.
-- **Previous Work Integration:** Built on a previous project where I created a simpler fully connected classifier for the Fashion MNIST dataset.
-- **Real-World Impact:** The results demonstrate the potential for using these techniques in practical applications like retail and fashion e-commerce.
+- **Multiple Model Approaches:** Developed custom CNN, utilized VGG16 for feature extraction, and fine-tuned VGG16 layers to maximize classification accuracy.  
+- **Previous Work Integration:** Built on a previous project where I created a simpler fully connected classifier for the Fashion MNIST dataset.  
+- **Real-World Impact:** Demonstrated the potential for using these techniques in practical applications like retail and fashion e-commerce.  
+
+Interactive Dashboard:  
+As part of this project, I developed an **interactive web dashboard** to visualize model predictions and provide insights into the dataset. This dashboard, hosted on a server, allows users to interact with the models in real time. You can explore the tool at this link: [Fashion MNIST Classifier Dashboard](https://ds-fashion-mnist-classifier-2-0.onrender.com).  
 
 **Why It Matters:**  
-This project demonstrates my ability to work with cutting-edge deep learning techniques, fine-tuning models for optimal performance, and integrating past knowledge to create more advanced solutions. It showcases my expertise in image classification and my capacity to develop solutions directly applicable to industries such as fashion and retail.
+This project demonstrates my ability to work with cutting-edge deep learning techniques, fine-tuning models for optimal performance, and integrating past knowledge to create more advanced solutions. It showcases my expertise in image classification and my capacity to develop solutions directly applicable to industries such as fashion and retail.  
 
 ---
 
