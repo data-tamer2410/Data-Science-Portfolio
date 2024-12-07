@@ -214,7 +214,6 @@ In this project, I demonstrated my knowledge of the SQL programming language and
 ### [Manipulation with MongoDB](https://github.com/data-tamer2410/ds-manipulation-with-mongodb)
 **Tech Stack**:
 *  **MongoDB**;
-*  **PyMongo**;
 *  **BeautifulSoup**;
 *  **Requests**;
 *  **JSON**.
