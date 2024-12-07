@@ -54,9 +54,9 @@ This project demonstrates my expertise in image classification, computer vision,
 This project explores advanced techniques for image classification using the Fashion MNIST dataset, where I implemented multiple neural network architectures to enhance accuracy. The task involved classifying images of various clothing items based on grayscale data, using methods such as convolutional neural networks (CNN), VGG16 for feature extraction, and fine-tuning pre-trained models for better performance. As part of this project, I developed an interactive web dashboard to visualize model predictions and provide insights into the dataset [Dashboard](https://ds-fashion-mnist-classifier-2-0.onrender.com). 
 
 **Key Achievements**:
-- **Multiple Model Approaches:** Developed custom CNN, utilized VGG16 for feature extraction, and fine-tuned VGG16 layers to maximize classification accuracy.  
-- **Previous Work Integration:** Built on a previous project where I created a simpler fully connected classifier for the Fashion MNIST dataset.  
-- **Real-World Impact:** Demonstrated the potential for using these techniques in practical applications like retail and fashion e-commerce.  
+- **Multiple Model Approaches**: Developed custom CNN, utilized VGG16 for feature extraction, and fine-tuned VGG16 layers to maximize classification accuracy.  
+- **Previous Work Integration**: Built on a previous project where I created a simpler fully connected classifier for the Fashion MNIST dataset.  
+- **Real-World Impact**: Demonstrated the potential for using these techniques in practical applications like retail and fashion e-commerce.  
 
 **Why It Matters**:  
 This project demonstrates my ability to work with cutting-edge deep learning techniques, fine-tuning models for optimal performance, and integrating past knowledge to create more advanced solutions. It showcases my expertise in image classification and my capacity to develop solutions directly applicable to industries such as fashion and retail.  
@@ -75,9 +75,9 @@ This project demonstrates my ability to work with cutting-edge deep learning tec
 This project presents a robust image classification model for the Fashion MNIST dataset, where I applied a combination of neural network design and hyperparameter optimization to achieve high accuracy. The model classifies various clothing types based on grayscale images, simulating real-world applications in retail, e-commerce, and fashion industries. To maximize performance, I integrated Optuna for hyperparameter tuning, optimizing parameters such as the number of layers, activation functions, batch size, and optimizer types. The model achieved **93.24% accuracy on training data** and **88.3% accuracy on test data**, surpassing the project’s original accuracy goal. 
 
 **Key Achievements**:
-- **High Accuracy and Stability:** Model validation accuracy of 89.44% with low loss, ensuring reliable performance in test scenarios.
-- **Data-Driven Hyperparameter Optimization:** Applied Optuna to refine model parameters across 50 trials, ensuring the most effective combination of settings.
-- **Real-World Relevance:** The techniques and outcomes of this project are directly applicable to any business or application requiring fast, accurate image-based classification.
+- **High Accuracy and Stability**: Model validation accuracy of 89.44% with low loss, ensuring reliable performance in test scenarios.
+- **Data-Driven Hyperparameter Optimization**: Applied Optuna to refine model parameters across 50 trials, ensuring the most effective combination of settings.
+- **Real-World Relevance**: The techniques and outcomes of this project are directly applicable to any business or application requiring fast, accurate image-based classification.
 
 **Why It Matters**:  
 This project not only demonstrates expertise in deep learning model building but also in systematic optimization—a crucial skill in data science roles that require balancing model performance with computational efficiency. This ability to deliver optimized, high-performance models showcases my readiness for real-world machine learning challenges in industry applications.
@@ -148,7 +148,7 @@ This project showcases my skills in data analysis, feature engineering, and mach
 ### [Cluster Insight](https://github.com/data-tamer2410/ds-cluster-insight)
 **Tech Stack**:
 *  **SciKit-Learn**;
-*  **Numpy**.
+*  **Numpy**;
 *  **Pandas**;
 *  **Matplotlib**;
 *  **Seaborn**.
