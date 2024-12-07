@@ -4,7 +4,7 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 ## Projects
 
 ### [Sentiment Analysis with RNN](https://github.com/data-tamer2410/ds-sentiment-analysis-with-rnn)
-**Technologies used**:
+**Tech Stack**:
 *  **Keras**;
 *  **SciKit-Learn**;
 *  **Numpy**;
@@ -12,7 +12,7 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 In this project, I developed a set of deep learning models to classify movie reviews from the IMDB dataset as positive or negative. Leveraging the sequential nature of text data, I implemented and compared multiple recurrent neural network architectures, including Simple RNN, LSTM, Bidirectional LSTM (BRNN), and Deep Bidirectional LSTM (DBRNN). The dataset contains 50,000 reviews, split evenly into training and testing subsets. Each model was trained to capture contextual information and sentiment patterns from the text, and their performance was evaluated using accuracy and loss metrics. The best results were achieved by the Bidirectional LSTM model, demonstrating its ability to handle complex text data effectively.
 
-Key Highlights:
+**Key Achievements**:
 - **Advanced Architectures**: Explored and implemented multiple RNN-based architectures to improve text classification performance.  
 - **Data Preprocessing**: Managed data padding and tokenization to prepare text data for recurrent models.  
 - **Model Evaluation**: Visualized training and validation results, analyzing differences in model performance across architectures.  
@@ -23,7 +23,7 @@ This project showcases my expertise in natural language processing, text data pr
 ---
 
 ### [Eyes Classification](https://github.com/data-tamer2410/ds-eyes-classification)
-**Technologies used**:
+**Tech Stack**:
 *  **Keras**;
 *  **SciKit-Learn**;
 *  **Numpy**;
@@ -31,7 +31,7 @@ This project showcases my expertise in natural language processing, text data pr
 
 In this project, I developed a deep learning model for classifying images of eyes into different categories (open or closed). The dataset consists of various images of human eyes captured in real-life conditions. The model was built using convolutional neural networks (CNNs) and trained to recognize subtle features of the eye, providing a robust classification solution that can be used in applications such as facial recognition or eye-tracking systems.
 
-Key highlights:
+**Key Achievements**:
 - **Deep Learning Architecture**: Implemented CNNs for efficient feature extraction and classification of images.
 - **Data Preprocessing**: Applied data augmentation techniques to enhance the model's generalization ability.
 - **Real-World Use Cases**: The model can be used for real-time applications such as eye health monitoring, security, and accessibility technologies.
@@ -42,31 +42,32 @@ This project demonstrates my expertise in image classification, computer vision,
 ---
 
 ### [Fashion MNIST Classifier 2.0](https://github.com/data-tamer2410/ds-fashion-mnist-classifier-2.0)
-**Technologies used**:
+**Tech Stack**:
 *  **Keras**;
 *  **SciKit-Learn**;
 *  **Numpy**;
 *  **Matplotlib**;
 *  **Pandas**;
-*  **Streamlit**.
+*  **Streamlit**;
+*  **Docker**.
 
 This project explores advanced techniques for image classification using the Fashion MNIST dataset, where I implemented multiple neural network architectures to enhance accuracy. The task involved classifying images of various clothing items based on grayscale data, using methods such as convolutional neural networks (CNN), VGG16 for feature extraction, and fine-tuning pre-trained models for better performance.
 
-Key highlights:
+**Key Achievements**:
 - **Multiple Model Approaches:** Developed custom CNN, utilized VGG16 for feature extraction, and fine-tuned VGG16 layers to maximize classification accuracy.  
 - **Previous Work Integration:** Built on a previous project where I created a simpler fully connected classifier for the Fashion MNIST dataset.  
 - **Real-World Impact:** Demonstrated the potential for using these techniques in practical applications like retail and fashion e-commerce.  
 
-Interactive Dashboard:  
+**Interactive Dashboard**:  
 As part of this project, I developed an **interactive web dashboard** to visualize model predictions and provide insights into the dataset. This dashboard, hosted on a server, allows users to interact with the models in real time. You can explore the tool at this link: [Fashion MNIST Classifier Dashboard](https://ds-fashion-mnist-classifier-2-0.onrender.com).  
 
-**Why It Matters:**  
+**Why It Matters**:  
 This project demonstrates my ability to work with cutting-edge deep learning techniques, fine-tuning models for optimal performance, and integrating past knowledge to create more advanced solutions. It showcases my expertise in image classification and my capacity to develop solutions directly applicable to industries such as fashion and retail.  
 
 ---
 
 ### [Fashion MNIST Classifier](https://github.com/data-tamer2410/ds-fashion-mnist-classifier)
-**Technologies used**:
+**Tech Stack**:
 *  **TensorFlow**;
 *  **Keras**;
 *  **SciKit-Learn**;
@@ -75,21 +76,20 @@ This project demonstrates my ability to work with cutting-edge deep learning tec
 *  **Optuna**.
 
 This project presents a robust image classification model for the Fashion MNIST dataset, where I applied a combination of neural network design and hyperparameter optimization to achieve high accuracy. The model classifies various clothing types based on grayscale images, simulating real-world applications in retail, e-commerce, and fashion industries.
-
 To maximize performance, I integrated Optuna for hyperparameter tuning, optimizing parameters such as the number of layers, activation functions, batch size, and optimizer types. The model achieved **93.24% accuracy on training data** and **88.3% accuracy on test data**, surpassing the project’s original accuracy goal. 
 
-Key highlights:
+**Key Achievements**:
 - **High Accuracy and Stability:** Model validation accuracy of 89.44% with low loss, ensuring reliable performance in test scenarios.
 - **Data-Driven Hyperparameter Optimization:** Applied Optuna to refine model parameters across 50 trials, ensuring the most effective combination of settings.
 - **Real-World Relevance:** The techniques and outcomes of this project are directly applicable to any business or application requiring fast, accurate image-based classification.
 
-**Why It Matters:**  
+**Why It Matters**:  
 This project not only demonstrates expertise in deep learning model building but also in systematic optimization—a crucial skill in data science roles that require balancing model performance with computational efficiency. This ability to deliver optimized, high-performance models showcases my readiness for real-world machine learning challenges in industry applications.
 
 ---
 
 ### [Handwritten Digit Recognition](https://github.com/data-tamer2410/ds-handwritten-digit-recognition)
-**Technologies used**:
+**Tech Stack**:
 *  **TensorFlow**;
 *  **Keras**;
 *  **SciKit-Learn**;
@@ -98,17 +98,18 @@ This project not only demonstrates expertise in deep learning model building but
 
 In this project, I developed a neural network model to accurately recognize handwritten digits from the MNIST dataset. The architecture features two hidden layers with sigmoid activation functions and a softmax output layer for multi-class classification. 
 
-Key achievements include:
+**Key Achievements**:
 - **High Accuracy**: Achieved 92.40% accuracy on training data and approximately 89.87% in cross-validation.
 - **Data Processing**: Implemented effective data normalization and transformation techniques to optimize model performance.
 - **Evaluation Metrics**: Used precision, F1-score, and ROC-AUC to assess model effectiveness, demonstrating its ability to reliably distinguish between digits.
 
+**Why It Matters**: 
 This project showcases my proficiency in deep learning, data preprocessing, and model evaluation, highlighting my ability to tackle real-world problems in computer vision.
 
 ---
 
 ### [Accelerometer Activity Classification](https://github.com/data-tamer2410/ds-accelerometer-activity-classification)
-**Technologies used**:
+**Tech Stack**:
 *  **SciKit-Learn**;
 *  **Optuna**;
 *  **Pandas**;
@@ -121,7 +122,7 @@ In this project, I developed a human activity recognition system that accurately
 ---
 
 ### [MovieLens Recommender System](https://github.com/data-tamer2410/ds-movielens-recommender-system)
-**Technologies used**:
+**Tech Stack**:
 *  **Surprise**;
 *  **Optuna**;
 *  **Pandas**;
@@ -134,7 +135,7 @@ Developed a recommendation system leveraging collaborative filtering with the Su
 ---
 
 ### [House Price Predictor](https://github.com/data-tamer2410/ds-house-price-predictor)
-**Technologies used**:
+**Tech Stack**:
 *  **SciKit-Learn**;
 *  **Optuna**;
 *  **Pandas**;
@@ -149,7 +150,7 @@ This project showcases my skills in data analysis, feature engineering, and mach
 ---
 
 ### [Cluster Insight](https://github.com/data-tamer2410/ds-cluster-insight)
-**Technologies used**:
+**Tech Stack**:
 *  **SciKit-Learn**;
 *  **Numpy**.
 *  **Pandas**;
@@ -161,7 +162,7 @@ Developed a robust KMeans clustering model to segment data into optimal groups, 
 ---
 
 ### [Developer Salary Analysis](https://github.com/data-tamer2410/ds-developer-salary-analysis)
-**Technologies used**:
+**Tech Stack**:
 *  **Pandas**;
 *  **Numpy**;
 *  **Matplotlib**;
@@ -173,7 +174,7 @@ The analysis revealed significant insights, including the correlation between wo
 ---
 
 ### [Text Summarization](https://github.com/data-tamer2410/ds-text-summarization)
-**Technologies used**:
+**Tech Stack**:
 *  **NLTK**;
 *  **LangDetect**;
 *  **Heapq**;
@@ -184,7 +185,7 @@ This project demonstrates the ability to automatically generate concise summarie
 ---
 
 ### [Analysis of Birth Rates in Ukrainian Regions](https://github.com/data-tamer2410/ds-analysis-of-birth-rates-in-ukrainian-regions)
-**Technologies used**:
+**Tech Stack**:
 *  **Pandas**;
 *  **Numpy**;
 *  **Matplotlib**;
@@ -192,19 +193,19 @@ This project demonstrates the ability to automatically generate concise summarie
 
 In this project, I conducted a comprehensive analysis of fertility rates across various regions in Ukraine over a span of nearly seven decades. Utilizing data scraped from Wikipedia, I meticulously cleaned and transformed the dataset, which includes regional birth rates from 1950 to 2019, into a structured format for analysis.
 
-Key insights from the analysis reveal significant trends, such as:
-
+**Key insights**:
 - The lowest fertility rates were observed in 2000, highlighting a demographic crisis at the turn of the millennium.
 - A noticeable recovery in birth rates began in 2000, suggesting a gradual demographic rebound.
 - The dramatic decline in the Luhansk region's birth rate in 2014 correlates with the onset of military conflict, providing context to the data.
 - By 2019, regions like Kyiv and Zakarpattia exhibited above-average fertility rates, while Sumy had the lowest.
 
+**Why It Matters**: 
 The project utilized Python libraries such as Pandas, NumPy, and Seaborn for data manipulation and visualization, presenting findings through informative graphs that illustrate the shifting dynamics of fertility rates over time. This analysis not only enhances understanding of demographic trends but also emphasizes the impact of socio-political events on population metrics.
 
 ---
 
 ### [Manipulation with SQLite](https://github.com/data-tamer2410/ds-manipulation-with-sqlite)
-**Technologies used**:
+**Tech Stack**:
 *  **SQLite**;
 *  **SQL**.
 
@@ -213,7 +214,7 @@ In this project, I demonstrated my knowledge of the SQL programming language and
 ---
 
 ### [Manipulation with MongoDB](https://github.com/data-tamer2410/ds-manipulation-with-mongodb)
-**Technologies used**:
+**Tech Stack**:
 *  **MongoDB**;
 *  **PyMongo**;
 *  **BeautifulSoup**;
@@ -225,7 +226,7 @@ This repository showcases my MongoDB skills using pymongo, and scraping and pars
 ---
 
 ### [Console Bot Helper](https://github.com/data-tamer2410/ds-console-bot-helper)
-**Technologies used**:
+**Tech Stack**:
 *  **Docker**;
 *  **DateTime**.
 
