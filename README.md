@@ -218,7 +218,7 @@ In this project, I demonstrated my knowledge of the SQL programming language and
 *  **Requests**;
 *  **JSON**.
 
-This repository showcases my MongoDB skills using pymongo, and scraping and parsing skills using beautifulsoup4 and requests.
+In this project, two tasks are performed. In the first, I demonstrate my skills in creating and managing a MongoDB database using PyMongo. In the second, I use web scraping techniques to collect data, convert it into a JSON file, and store it in the MongoDB database.
 
 ---
 
