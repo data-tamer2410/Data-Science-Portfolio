@@ -211,7 +211,7 @@ In this project, I demonstrated my knowledge of the SQL programming language and
 
 ---
 
-### [Manipulation with MongoDB](https://github.com/data-tamer2410/ds-manipulation-with-mongodb)
+### [Manipulation with MongoDB & Quotes Web-Scraping](https://github.com/data-tamer2410/ds-manipulation-with-mongodb_quotes-web-scraping)
 **Tech Stack**:
 *  **MongoDB**;
 *  **BeautifulSoup**;
