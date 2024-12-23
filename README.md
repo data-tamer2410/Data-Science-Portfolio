@@ -3,10 +3,33 @@ Welcome to my Data Science portfolio! Here you can find my projects related to d
 
 ## Projects
 
+### [Weather Forecast API](https://github.com/data-tamer2410/ds-weather-forecast)  
+**Tech Stack**:  
+- **Keras**;  
+- **FastAPI**;  
+- **Docker**;  
+- **Numpy**;
+- **Pandas**;  
+- **Scikit-Learn**;
+- **Matplotlib**.
+
+In this project, I developed an RNN-based API to forecast weather conditions for the next day using historical data from the past 7 days. The model was trained on multiple weather features such as temperature, rainfall, wind speed, and atmospheric pressure, providing precise predictions for parameters like maximum and minimum temperature, rainfall probability, and wind gust speed. The API was containerized using Docker and deployed on a server, enabling seamless integration and scalability. The endpoint is easily accessible via POST requests, making it practical for real-world applications in weather monitoring or decision support systems.
+
+**Key Achievements**:  
+- **Deep Learning Integration**: Designed and deployed an RNN model optimized for time-series weather data prediction.  
+- **API Development and Deployment**: Built a FastAPI backend, packaged it in Docker, and deployed it on Render.  
+- **Efficient Predictions**: Developed an interface that accepts 7 days of weather data and returns precise forecasts, including the probability of rainfall.  
+- **Data Preprocessing**: Implemented scaling and reshaping mechanisms to prepare complex weather datasets for accurate model inference.  
+
+**Why It Matters**:  
+This project highlights my expertise in time-series analysis, deep learning model deployment, and scalable API development. It showcases my ability to build, containerize, and deploy AI-driven solutions that provide actionable insights for real-world applications.
+
+---
+
 ### [Sentiment Analysis with RNN](https://github.com/data-tamer2410/ds-sentiment-analysis-with-rnn)
 **Tech Stack**:
 *  **Keras**;
-*  **SciKit-Learn**;
+*  **Scikit-Learn**;
 *  **Numpy**;
 *  **Matplotlib**.
 
@@ -25,7 +48,7 @@ This project showcases my expertise in natural language processing, text data pr
 ### [Eyes Classification](https://github.com/data-tamer2410/ds-eyes-classification)
 **Tech Stack**:
 *  **Keras**;
-*  **SciKit-Learn**;
+*  **Scikit-Learn**;
 *  **Numpy**;
 *  **Matplotlib**.
 
@@ -44,7 +67,7 @@ This project demonstrates my expertise in image classification, computer vision,
 ### [Fashion MNIST Classifier 2.0](https://github.com/data-tamer2410/ds-fashion-mnist-classifier-2.0)
 **Tech Stack**:
 *  **Keras**;
-*  **SciKit-Learn**;
+*  **Scikit-Learn**;
 *  **Numpy**;
 *  **Matplotlib**;
 *  **Pandas**;
@@ -69,7 +92,7 @@ This project demonstrates my ability to work with cutting-edge deep learning tec
 **Tech Stack**:
 *  **TensorFlow**;
 *  **Keras**;
-*  **SciKit-Learn**;
+*  **Scikit-Learn**;
 *  **Numpy**;
 *  **Matplotlib**;
 *  **Optuna**.
@@ -90,7 +113,7 @@ This project not only demonstrates expertise in deep learning model building but
 **Tech Stack**:
 *  **TensorFlow**;
 *  **Keras**;
-*  **SciKit-Learn**;
+*  **Scikit-Learn**;
 *  **Numpy**;
 *  **Matplotlib**.
 
@@ -108,7 +131,7 @@ This project showcases my proficiency in deep learning, data preprocessing, and 
 
 ### [Accelerometer Activity Classification](https://github.com/data-tamer2410/ds-accelerometer-activity-classification)
 **Tech Stack**:
-*  **SciKit-Learn**;
+*  **Scikit-Learn**;
 *  **Optuna**;
 *  **Pandas**;
 *  **Numpy**;
@@ -134,7 +157,7 @@ Developed a recommendation system leveraging collaborative filtering with the Su
 
 ### [House Price Predictor](https://github.com/data-tamer2410/ds-house-price-predictor)
 **Tech Stack**:
-*  **SciKit-Learn**;
+*  **Scikit-Learn**;
 *  **Optuna**;
 *  **Pandas**;
 *  **Numpy**;
@@ -149,7 +172,7 @@ This project showcases my skills in data analysis, feature engineering, and mach
 
 ### [Cluster Insight](https://github.com/data-tamer2410/ds-cluster-insight)
 **Tech Stack**:
-*  **SciKit-Learn**;
+*  **Scikit-Learn**;
 *  **Numpy**;
 *  **Pandas**;
 *  **Matplotlib**;
