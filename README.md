@@ -2,6 +2,25 @@
 Welcome to my Data Science portfolio! Here you can find my projects related to data analysis, machine learning, and data visualization.
 
 ## Projects
+### [Sky View](https://github.com/data-tamer2410/ds-sky-view)  
+**Tech Stack**:  
+- **Streamlit**;  
+- **Docker**;  
+- **BeautifulSoup**;  
+- **Requests**.  
+ 
+In this project, I developed a weather forecasting platform for Australia that leverages a pre-trained neural network to predict weather conditions for the next day based on historical data from the past 7 days. The platform collects weather data through an API, processes it, and makes accurate predictions for parameters like temperature, rainfall, and wind speed. The project was deployed in a Docker container for scalability and easy integration. Users can simply select a location in Australia, toggle between today and tomorrow's forecast, and check the weather using the interactive interface built with Streamlit.
+
+**Key Achievements**:  
+- **API Integration**: Successfully integrated a weather forecasting API to gather data for predictions.  
+- **Neural Network Utilization**: Utilized a pre-trained neural network to process and predict weather parameters based on time-series data.  
+- **User-Friendly Interface**: Built an intuitive front-end using Streamlit, allowing users to easily get weather forecasts for their chosen locations.  
+- **Docker Deployment**: Containerized the application with Docker for easy deployment and portability.
+
+**Why It Matters**:  
+This project showcases my ability to build scalable, user-friendly applications that utilize machine learning models to provide real-world solutions. It highlights my skills in API integration, neural network utilization, and deploying applications in Docker containers, making it ideal for scalable weather forecasting solutions.
+
+---
 
 ### [Weather Forecast API](https://github.com/data-tamer2410/ds-weather-forecast)  
 **Tech Stack**:  
