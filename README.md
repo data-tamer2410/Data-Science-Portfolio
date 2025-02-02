@@ -2,6 +2,27 @@
 Welcome to my Data Science portfolio! Here you can find my projects related to data analysis, machine learning, and data visualization.
 
 ## Projects
+### [Doctor Chat](https://github.com/data-tamer2410/doctor-chat)  
+**Tech Stack**:  
+- **TensorFlow**;
+- **Transformers**;
+- **Streamlit**; 
+- **Docker**;  
+- **Pandas**.
+
+In this project, I developed an AI-powered chatbot that provides medical advice and recommendations. The bot utilizes a fine-tuned GPT-2 model to generate responses in a structured dialogue format between the patient and a virtual doctor. The application is built using Streamlit and deployed on a server, ensuring seamless accessibility. The chatbot offers personalized health advice, making it an essential tool for quick consultations and initial diagnostics.
+
+**Key Achievements**:  
+- **AI-Powered Chatbot with High Accuracy**: Fine-tuned the GPT-2 model to achieve high accuracy in generating medical advice, reducing perplexity to **12.91**.  
+- **Optimized Responses for Medical Domain**: Implemented a rigorous fine-tuning process to tailor the responses specifically to the medical domain, ensuring that the chatbot provides accurate, reliable, and contextually appropriate answers.  
+- **User-Friendly Interface**: Built an intuitive and engaging front-end with Streamlit, allowing users to interact easily with the bot and receive personalized advice.  
+- **Scalable and Efficient Deployment**: Deployed the solution in a Docker container, ensuring scalability, easy deployment, and enhanced performance across different environments.
+
+**Why It Matters**:  
+This project showcases my ability to leverage deep learning models to solve real-world problems, specifically in the healthcare industry. By achieving high accuracy and low perplexity, I demonstrate my capability to fine-tune models for domain-specific applications. The project highlights my skills in model optimization, deployment using Docker, and creating highly functional, user-centered AI applications.
+
+---
+
 ### [Sky View](https://github.com/data-tamer2410/ds-sky-view)  
 **Tech Stack**:  
 - **Streamlit**;  
