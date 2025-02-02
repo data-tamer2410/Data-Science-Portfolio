@@ -2,7 +2,7 @@
 Welcome to my Data Science portfolio! Here you can find my projects related to data analysis, machine learning, and data visualization.
 
 ## Projects
-### [Doctor Chat](https://github.com/data-tamer2410/doctor-chat)  
+### [Doctor Chat](https://github.com/data-tamer2410/ds-doctor-chat)  
 **Tech Stack**:  
 - **TensorFlow**;
 - **Transformers**;
