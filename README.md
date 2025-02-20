@@ -170,8 +170,6 @@ This project showcases my proficiency in deep learning, data preprocessing, and 
 ---
 
 ### [Accelerometer Activity Classification](https://github.com/data-tamer2410/ds-accelerometer-activity-classification)
-*Oct 2024 - Oct 2024*
-
 **Tech Stack**:
 *  **Scikit-Learn**;
 *  **Optuna**;
